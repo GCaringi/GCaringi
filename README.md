@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Time monitored with Waka Time [![wakatime](https://wakatime.com/badge/user/95d9c547-fbaa-4557-98e4-375d4059c31e.svg)](https://wakatime.com/@95d9c547-fbaa-4557-98e4-375d4059c31e)
+[![wakatime](https://wakatime.com/badge/user/95d9c547-fbaa-4557-98e4-375d4059c31e.svg)](https://wakatime.com/@95d9c547-fbaa-4557-98e4-375d4059c31e)
 <!-- **GCaringi/GCaringi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
