@@ -3,6 +3,8 @@
 [![wakatime](https://wakatime.com/badge/user/95d9c547-fbaa-4557-98e4-375d4059c31e.svg)](https://wakatime.com/@95d9c547-fbaa-4557-98e4-375d4059c31e)
 
 ![codewars](https://www.codewars.com/users/GCaringi/badges/small)
+
+![](https://komarev.com/ghpvc/?username=GCaringi)
 <!-- **GCaringi/GCaringi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
